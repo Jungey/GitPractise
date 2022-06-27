@@ -7,4 +7,5 @@ def fib(n):
         a, b = b, a+b
         print()
 
-fib(500)
+# 300 is the branch 3 update
+print('The series is as follows:' + fib(300))
